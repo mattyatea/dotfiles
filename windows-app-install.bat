@@ -1,0 +1,21 @@
+winget install discord.discord
+winget install Vivaldi.Vivaldi
+winget install Krisp.Krisp
+winget install AgileBits.1Password
+winget install RiotGames.Valorant.AP
+winget install jetbrainstoolbox
+winget install powertoys
+winget install microsoft.powertoys
+winget install git.git
+winget install slacktechnologies.slack
+winget install valve.steam
+winget install devtoys-app.devtoys
+winget install fnm
+winget install lens
+winget install notion.notion
+winget install Mirantis.Lens
+winget install termius.termius
+winget install apple.itunes
+winget install wezterm
+winget install neovim
+wsl --install
