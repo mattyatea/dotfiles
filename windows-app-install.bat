@@ -4,14 +4,13 @@ winget install Krisp.Krisp
 winget install AgileBits.1Password
 winget install RiotGames.Valorant.AP
 winget install jetbrainstoolbox
-winget install powertoys
 winget install microsoft.powertoys
 winget install git.git
 winget install slacktechnologies.slack
 winget install valve.steam
 winget install devtoys-app.devtoys
 winget install fnm
-winget install lens
+winget install Mirantis.Lens
 winget install notion.notion
 winget install Mirantis.Lens
 winget install termius.termius
